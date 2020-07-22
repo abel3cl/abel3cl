@@ -4,4 +4,4 @@
 
 A fan of [Vapor](https://github.com/vapor/vapor) framework
 
-I retweet stuff about iOS and Swift @abel3lagunas
+I retweet stuff about iOS and Swift @abel_lagunas
